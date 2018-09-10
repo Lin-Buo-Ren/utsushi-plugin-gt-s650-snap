@@ -1,5 +1,5 @@
-# Unofficial Snap Packaging for [Project]
-This is the unofficial snap packaging for [Project], [Snaps are universal Linux packages](https://snapcraft.io).
+# Unofficial Snap Packaging for Epson GT-S650 Scanner Plugin Content Snap for Utsushi Snap
+This is the unofficial snap packaging for Epson GT-S650 Scanner Plugin Content Snap for Utsushi Snap, [Snaps are universal Linux packages](https://snapcraft.io).
 
 Refer [snap/README.md](snap/README.md) for user-oriented information.
 
@@ -41,20 +41,12 @@ Depending on the upstream's response:
 
 If you have any questions, [post in the Snapcraft forum](https://forum.snapcraft.io).
 
-<!-- 
-
 ## The Snapcrafters
-| [![Your Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431/?s=128)](https://github.com/yourname/) |
+| [![林博仁(Buo-ren, Lin)'s Avatar](https://www.gravatar.com/avatar/66a5b84972e73e895d5d68d48b1e1e21?size=128)](https://github.com/Lin-Buo-Ren/) |
 | :----------------------------------------------------------: |
-|          [Your Name](https://github.com/yourname/)           |
-
---> 
-
-<!-- Uncomment and modify this when you have upstream contacts
+|   [林博仁<br>Buo-ren, Lin](https://Lin-Buo-Ren.github.io)    |
 
 ## Upstream
-| [![Upstream Name](http://gravatar.com/avatar/bc0bced65e963eb5c3a16cab8b004431?s=128)](https://github.com/upstreamname) |
+|  "Epson Image Scan! for Linux" / "Utsushi"<br>Right Holders<br>SEIKO EPSON CORPORATION<br>(EPSON AVASYS CORPORATION) |
 | :----------------------------------------------------------: |
-|       [Upstream Name](https://github.com/upstreamname)       |
-
--->
+| <linux-scanner@epson.jp> |

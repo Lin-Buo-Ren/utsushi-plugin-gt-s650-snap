@@ -1,14 +1,14 @@
-# Unofficial Snap Packaging for [Project]
+# Unofficial Snap Packaging for Epson GT-S650 Scanner Plugin Content Snap for Utsushi Snap
 <!--
 	Use the RawGit service for easy access to in-repo pictures:
 	https://rawgit.com
 -->
-![Icon of [Project]](https://cdn.rawgit.com/Lin-Buo-Ren/snapcrafters-template-plus/bea3bc56/snap/gui/my-awesome-app.png "Icon of [Project]")
+![Placeholder Icon of Epson GT-S650 Scanner Plugin for Utsushi Snap](https://cdn.rawgit.com/Lin-Buo-Ren/snapcrafters-template-plus/bea3bc56/snap/gui/my-awesome-app.png "Placeholder Icon of Epson GT-S650 Scanner Plugin for Utsushi Snap")
 
-**This is the unofficial snap for [Project]**, *"Single-line elevator pitch for your amazing snap"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
+**This is the un-official snap for the Epson GT-S650 Scanner Plugin for the Utsushi Snap**, *"Non-free, non-redistributable device support plugin for scanners like Epson Perfection V39"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
 
 <!-- Uncomment and modify this when you are provided a build status badge
-[![Build Status Badge of the `my-awesome-app` Snap](https://build.snapcraft.io/badge/_repo_owner_id_/_repo_name_id_.svg "Build Status of the `my-awesome-app` snap")](https://build.snapcraft.io/user/_repo_owner_id_/_repo_name_id_)
+[![Build Status Badge of the `my-awesome-app` Snap](https://build.snapcraft.io/badge/Lin-Buo-Ren/utsushi-plugin-gt-s650-snap.svg "Build Status of the `my-awesome-app` snap")](https://build.snapcraft.io/user/Lin-Buo-Ren/utsushi-plugin-gt-s650-snap)
 -->
 
 <!-- Uncomment and modify this when you have a screenshot
@@ -46,16 +46,14 @@ Browse <https://snapcraft.io/my-awesome-app> and follow the instructions.
 ## What is NOT Working...yet 
 * [A list of functionallities that are verified not working]
 
-Check out the [issue tracker](https://github.com/_repo_owner_id_/_repo_name_id_/issues) for more known issues.
+Check out the [issue tracker](https://github.com/Lin-Buo-Ren/utsushi-plugin-gt-s650-snap/issues) for more known issues.
 
 ## What is NOT Tested...yet
 * [A list of functionallities that are not tested for any reasons.]
 -->
 
-<!-- Uncomment when you have initialized the URLs
 ## Support
 * Report issues regarding using this snap to the issue tracker:  
-  <https://github.com/_repo_owner_id_/_repo_name_id_/issues>
+  <https://github.com/Lin-Buo-Ren/utsushi-plugin-gt-s650-snap/issues>
 * You may also post on the Snapcraft Forum, under the `snap` topic category:  
   <https://forum.snapcraft.io/c/snap>
--->
